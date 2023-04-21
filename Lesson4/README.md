@@ -109,4 +109,4 @@ public class RedBlackTree<Integereger extends Comparable<Integereger>> {
 }
 ```
 
-![image](images\pic1.png)
+![image](images/pic1.png)
